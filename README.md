@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Karim Adel.
+- 👀 I’m interested in AI. 
+- 🌱 I’m currently learning ML.
+- 📫 How to reach me "https://www.linkedin.com/in/karim-adel-830a58225/" & "kaddeljr321@gmail.com".
